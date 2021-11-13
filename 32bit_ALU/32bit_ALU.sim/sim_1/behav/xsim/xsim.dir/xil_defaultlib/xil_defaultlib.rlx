@@ -1,0 +1,16 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sim_1/new/testbench_ALU_32bit.v,1636708728,verilog,,,,test_alu,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/ALUModule.v,1636551105,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/AdderModule.v,,ALU_32bit,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/ALU_32bit_Display.v,1636551139,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sim_1/new/testbench_ALU_32bit.v,,ALU_Display,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/AdderModule.v,1636616215,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/NotModule.v,,Add_1bit;CLA_4bit;CLA_Add_16bit;CLA_Add_32bit;CLA_Add_4bit,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/AndModule.v,1636530937,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/TruncateModule.v,,And_32bit,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/DecoderModule.v,1636188735,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/ShiftModule.v,,Decoder_2To4;Decoder_3To8,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/NotModule.v,1636163930,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/OrModule.v,,Not_32bit,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/OrModule.v,1636163926,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/XorModule.v,,Or_32bit,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/ShiftModule.v,1636528995,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/ALUModule.v,,shifter_16bit;shifter_1bit;shifter_2bit;shifter_32bit;shifter_4bit;shifter_8bit,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/TruncateModule.v,1636528326,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/ALU_32bit_Display.v,,CutL;CutR;Cut_decoder;Truncate_32bit,,,,,,,,
+D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/XorModule.v,1636163913,verilog,,D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/AndModule.v,,Xor_32bit,,,,,,,,

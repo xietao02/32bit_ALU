@@ -1,0 +1,35 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 00dc77f229df4c6f8134daa4260a75da --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_alu_behav xil_defaultlib.test_alu xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Decoder_3To8
+Compiling module xil_defaultlib.Add_1bit
+Compiling module xil_defaultlib.CLA_4bit
+Compiling module xil_defaultlib.CLA_Add_4bit
+Compiling module xil_defaultlib.CLA_Add_16bit
+Compiling module xil_defaultlib.CLA_Add_32bit
+Compiling module xil_defaultlib.Decoder_2To4
+Compiling module xil_defaultlib.shifter_1bit
+Compiling module xil_defaultlib.shifter_2bit
+Compiling module xil_defaultlib.shifter_4bit
+Compiling module xil_defaultlib.shifter_8bit
+Compiling module xil_defaultlib.shifter_16bit
+Compiling module xil_defaultlib.shifter_32bit
+Compiling module xil_defaultlib.Cut_decoder
+Compiling module xil_defaultlib.CutL
+Compiling module xil_defaultlib.CutR
+Compiling module xil_defaultlib.Truncate_32bit
+Compiling module xil_defaultlib.And_32bit
+Compiling module xil_defaultlib.Or_32bit
+Compiling module xil_defaultlib.Not_32bit
+Compiling module xil_defaultlib.Xor_32bit
+Compiling module xil_defaultlib.ALU_32bit
+Compiling module xil_defaultlib.test_alu
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_alu_behav

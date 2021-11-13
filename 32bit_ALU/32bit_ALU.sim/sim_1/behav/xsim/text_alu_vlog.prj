@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../32bit_ALU.srcs/sources_1/new/DecoderModule.v" \
+"../../../../32bit_ALU.srcs/sources_1/new/ShiftModule.v" \
+"../../../../32bit_ALU.srcs/sources_1/new/ALUModule.v" \
+"../../../../32bit_ALU.srcs/sources_1/new/AdderModule.v" \
+"../../../../32bit_ALU.srcs/sources_1/new/NotModule.v" \
+"../../../../32bit_ALU.srcs/sources_1/new/OrModule.v" \
+"../../../../32bit_ALU.srcs/sources_1/new/XorModule.v" \
+"../../../../32bit_ALU.srcs/sources_1/new/AndModule.v" \
+"../../../../32bit_ALU.srcs/sources_1/new/TruncateModule.v" \
+"../../../../32bit_ALU.srcs/sim_1/new/testbench_ALU_32bit.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

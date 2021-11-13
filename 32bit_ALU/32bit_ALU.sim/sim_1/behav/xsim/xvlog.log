@@ -1,0 +1,36 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/DecoderModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder_3To8
+INFO: [VRFC 10-311] analyzing module Decoder_2To4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/ShiftModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shifter_1bit
+INFO: [VRFC 10-311] analyzing module shifter_2bit
+INFO: [VRFC 10-311] analyzing module shifter_4bit
+INFO: [VRFC 10-311] analyzing module shifter_8bit
+INFO: [VRFC 10-311] analyzing module shifter_16bit
+INFO: [VRFC 10-311] analyzing module shifter_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/ALUModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/AdderModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Add_1bit
+INFO: [VRFC 10-311] analyzing module CLA_4bit
+INFO: [VRFC 10-311] analyzing module CLA_Add_4bit
+INFO: [VRFC 10-311] analyzing module CLA_Add_16bit
+INFO: [VRFC 10-311] analyzing module CLA_Add_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/NotModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Not_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/OrModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Or_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/XorModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Xor_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/AndModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module And_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/TruncateModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Cut_decoder
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'judge' is not allowed [D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/TruncateModule.v:16]
+INFO: [VRFC 10-311] analyzing module CutL
+INFO: [VRFC 10-311] analyzing module CutR
+INFO: [VRFC 10-311] analyzing module Truncate_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sources_1/new/ALU_32bit_Display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Display
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/32bit_ALU/32bit_ALU.srcs/sim_1/new/testbench_ALU_32bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_alu
